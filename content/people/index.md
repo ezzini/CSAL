@@ -4,6 +4,8 @@ date: 2022-10-24
 
 type: landing
 
+
+
 sections:
   - block: people
     content:
@@ -19,8 +21,13 @@ sections:
           - Visitors
           - Alumni
           - Collaborators
-      sort_by: Params.last_name
+          - Postdocs
+      # sort_by: Params.last_name
+      sort_by: Params.order
       sort_ascending: true
+      limit: 11
+    authors:
+      - omar
     design:
       show_interests: false
       show_role: true

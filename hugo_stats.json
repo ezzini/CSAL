@@ -37,7 +37,6 @@
       "select",
       "span",
       "strong",
-      "style",
       "textarea",
       "title",
       "ul"
@@ -149,7 +148,6 @@
       "fa-moon",
       "fa-phone",
       "fa-search",
-      "fa-sun",
       "fa-times-circle",
       "fa-twitter",
       "fa-ul",
@@ -178,8 +176,6 @@
       "hero-title",
       "home-section",
       "home-section-bg",
-      "icon-moon",
-      "icon-sun",
       "img-hover-zoom",
       "institution",
       "isotope-item",
@@ -187,9 +183,6 @@
       "js-copy-cite",
       "js-download-cite",
       "js-search",
-      "js-set-theme-auto",
-      "js-set-theme-dark",
-      "js-set-theme-light",
       "js-toggle-theme",
       "js-widget-page",
       "justify-content-between",
@@ -285,10 +278,6 @@
       "text-center",
       "text-md-left",
       "text-muted",
-      "theme-icon",
-      "theme-link-dark",
-      "theme-link-light",
-      "theme-toggle",
       "ul-edu",
       "ul-interests",
       "universal-wrapper",
@@ -304,7 +293,14 @@
       "wg-slider",
       "year-2013",
       "year-2015",
-      "year-2019"
+      "year-2018",
+      "year-2019",
+      "year-2020",
+      "year-2021",
+      "year-2022",
+      "year-2023",
+      "year-2024",
+      "year-2025"
     ],
     "ids": [
       "conference-organisation",
@@ -341,11 +337,7 @@
       "section-markdown",
       "section-people",
       "section-slider",
-      "set-auto",
-      "set-dark",
-      "set-light",
       "talk_list",
-      "theme-toggle-custom",
       "top"
     ]
   }
