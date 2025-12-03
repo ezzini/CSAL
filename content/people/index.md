@@ -28,6 +28,7 @@ sections:
       limit: 11
     authors:
       - omar
+      - jacques-klein
     design:
       show_interests: false
       show_role: true

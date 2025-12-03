@@ -1,6 +1,6 @@
 ---
-title: Prof. Jacques Klein
-role: Software Engineering
+title: Jacques Klein
+role: Professor of Software Engineering
 organizations:
   - name: University of Luxembourg
     url: ""
