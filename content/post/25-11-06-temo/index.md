@@ -1,8 +1,8 @@
 ---
 title: TEMO (Therapeutic Emotional LLM-powered Robot)
 date: 2025-11-06
-# image: 
-#     focal_point: 'top'
+image: 
+    focal_point: 'top'
 ---
 
 Over the past months, we have been developing TEMO (Therapeutic Emotional LLM-powered Robot), designed to support children with Autism Spectrum Disorder.
