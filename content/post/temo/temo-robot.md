@@ -1,7 +1,7 @@
 ---
 title: TEMO (Therapeutic Emotional LLM-powered Robot)
 date: 2025-11-06
-image: /uploads/1763361951977.jpg
+image: 
     focal_point: 'top'
 ---
 
