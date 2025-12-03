@@ -15,4 +15,4 @@ This milestone marks a meaningful step toward integrating LLM-powered assistive 
 
 I’m grateful to my advisor Saad Ezzini, who supported, guided, and built a fully functional robot with me, and I’m excited about the upcoming improvements.
 
-![LinkedIn Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7396076123144499200/)
+**By Ms. Fatimah Alali**
