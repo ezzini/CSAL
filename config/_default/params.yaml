@@ -14,7 +14,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
 
-  mode: light
+  mode: dark
   # font: ''
   # font_size: L
 
